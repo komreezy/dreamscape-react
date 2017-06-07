@@ -1,0 +1,15 @@
+.post-editor {
+  margin: 0 20%;
+  background-color: red;
+}
+
+.post-editor-button {
+  float: right;
+  margin-top: 1em;
+}
+
+@media(max-width: 900px) {
+  .post-editor {
+    margin: 1em;
+  }
+}

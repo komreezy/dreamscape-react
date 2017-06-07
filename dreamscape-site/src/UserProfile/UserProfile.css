@@ -1,0 +1,38 @@
+.master {
+  margin-top: 15px;
+  border-color: white;
+  border-radius: 3px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.layout { 
+  padding-left: 100px;
+  background-color: #121314;
+  overflow: visible;
+}
+
+.user-color {
+  margin-top: 15px;
+  width: 32.3%;
+  height: 125px;
+  background-color: #9F4AFF;
+  border-radius: 3px;
+}
+
+#col {
+  display: inline-block;
+}
+
+#link {
+    text-decoration: none;
+}
+
+h5 {
+  display: block;
+  padding: 5px 5px 5px 5px;
+}
+
+a {
+  display: block;
+}
